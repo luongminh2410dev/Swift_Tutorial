@@ -24,6 +24,10 @@ let comment = """
     Please do it yourself
 """
 
+// toan tu 3 ngoi
+var age: Int = 40
+var message : String = (age > 50) ? ("Bạn đã già rồi") : ("Bạn còn trẻ")
+
 
 // ARRAY
 // khai bao mang
